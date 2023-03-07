@@ -18,21 +18,21 @@
   <li>Ruby 3.2.0</li>
   <li>Ruby on Rails 7.0.3.1</li>
   <li>MySQL 8.0.32</li>
-  <li>AWS</li>
-  <li>Docker/Docker-compose</li>
-  <li>CircleCi CI/CD</li>
+  <!-- <li>AWS</li> -->
+  <!-- <li>Docker/Docker-compose</li> -->
+  <!-- <li>CircleCi CI/CD</li> -->
   <li>RSpec</li>
   <li>Google Maps API</li>
 </ul>
 
-<h2>AWS構成図</h2>
-  <p></p>
+<!-- <h2>AWS構成図</h2>
+  <p></p> -->
 
-<h3>CircleCi CI/CD</h3>
+<!-- <h3>CircleCi CI/CD</h3>
 <ul>
     <li>Githubへのpush時に、RspecとRubocopが自動で実行されます。</li>
     <li>masterブランチへのpushでは、RspecとRubocopが成功した場合、EC2への自動デプロイが実行されます</li>
-</ul>
+</ul> -->
 
 <h2>機能の一覧</h2>
 <ul>
@@ -44,5 +44,6 @@
 </ul>
 
 <h2>テスト</h2>
-  <p>RSpec</p>
-  
+<ul>
+  <li>RSpec</li>
+</ul>
