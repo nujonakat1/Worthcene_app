@@ -67,3 +67,11 @@ body{
         opacity: 0;
     }
 }
+
+
+/* モバイル版 */
+
+@media (max-width: 600px){
+    
+
+}
